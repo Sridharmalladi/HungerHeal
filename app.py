@@ -228,7 +228,7 @@ st.markdown("""
 initialize_firebase()
 
 # App Header
-st.markdown("<h1 class='main-title'>RePlate</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>HungerHeal</h1>", unsafe_allow_html=True)
 st.markdown("<p class='sub-title'>Food That Finds a Home</p>", unsafe_allow_html=True)
 
 # Create tabs
@@ -267,7 +267,7 @@ with tab0:
     st.markdown("""
     ## 💡 Our Solution: Turn Surplus Into Support
     
-    RePlate is born from a simple belief: **"No one should go hungry while good food is thrown away."**
+    HungerHeal is born from a simple belief: **"No one should go hungry while good food is thrown away."**
     
     We connect:
     - 🏪 Food donors (restaurants, grocery stores, bakeries, caterers)
@@ -278,7 +278,7 @@ with tab0:
     
     ## ❤️ Together, We Can Make a Difference
     
-    RePlate is more than an app. It's a movement—a call to action for businesses, communities, and individuals 
+    HungerHeal is more than an app. It's a movement—a call to action for businesses, communities, and individuals 
     to come together and turn waste into hope.
     
     - Let's stop the waste
