@@ -20,7 +20,7 @@ from geo_utils import geocode_address
 
 # Page configuration
 st.set_page_config(
-    page_title="RePlate - Surplus is Support",
+    page_title="HungerHeal - Surplus is Support",
     page_icon="🍲",
     layout="wide",
     initial_sidebar_state="collapsed"
