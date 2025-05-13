@@ -1,6 +1,6 @@
-# RePlate 🍲
+# HungerHeal 🍲
 
-**RePlate** is a real-time, location-based platform to connect food donors (restaurants, grocery stores, bakeries, caterers, individuals) with receivers (NGOs, shelters, volunteers, families in need). The goal is to reduce food waste and help those in need by making surplus food available quickly and safely.
+**HungerHeal** is a real-time, location-based platform to connect food donors (restaurants, grocery stores, bakeries, caterers, individuals) with receivers (NGOs, shelters, volunteers, families in need). The goal is to reduce food waste and help those in need by making surplus food available quickly and safely.
 
 ## Features
 - **Post Surplus Food:** Donors can post available food with details, contact info, and optional ID verification for credibility.
@@ -24,7 +24,7 @@
 1. **Clone the repository:**
    ```bash
    git clone <your-repo-url>
-   cd RePlate
+   cd HungerHeal
    ```
 2. **Install dependencies:**
    ```bash
@@ -57,4 +57,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 [MIT](LICENSE)
 
 ---
-**RePlate**: No one should go hungry while good food is thrown away. 
+**HungerHeal**: No one should go hungry while good food is thrown away. 
